@@ -5,7 +5,18 @@
 
 version: 2
 updates:
+  # ルートのウェブサイトの依存関係をチェック
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "daily"
+    ignore:
+      - dependency-name: "eslint"
+    groups:
+      angular:
+        applies-to: version-updates
+        patterns:
+          - "tar"
+        update-types:
+          - "minor"
+          - "patch"
