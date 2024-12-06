@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "URL Shortener | Fun117",
-  description: "url shortener",
+  title: "Fun117's Links",
+  description: "Fun117に関連するリンク短縮サイト",
 };
 
 export default function RootLayout({
