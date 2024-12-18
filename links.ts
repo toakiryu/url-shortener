@@ -8,13 +8,13 @@ export const links = [
   },
   {
     path: "/github",
-    href: "https://github.com/Fun117",
+    href: "https://github.com/toakiryu",
     label: "GitHub",
     permanent: true,
   },
   {
     path: "/npm",
-    href: "https://www.npmjs.com/~fun117",
+    href: "https://www.npmjs.com/~toakiryu",
     label: "npm",
     permanent: true,
   },
@@ -26,7 +26,7 @@ export const links = [
   },
   {
     path: "/x",
-    href: "https://x.com/fun_117",
+    href: "https://x.com/toakiryu",
     label: "X (Twitter)",
     permanent: true,
   },
