@@ -44,7 +44,7 @@ export const links = [
   },
   {
     path: "/twitch",
-    href: "https://www.twitch.tv/fun_117",
+    href: "https://www.twitch.tv/twitch",
     label: "Twitch",
     permanent: true,
   },
