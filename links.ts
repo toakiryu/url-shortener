@@ -2,7 +2,7 @@
 export const links = [
   {
     path: "/website",
-    href: "https://fun117.dev",
+    href: "https://toakiryu.com",
     label: "Website",
     permanent: true,
   },
@@ -44,7 +44,7 @@ export const links = [
   },
   {
     path: "/twitch",
-    href: "https://www.twitch.tv/twitch",
+    href: "https://www.twitch.tv/toakiryu",
     label: "Twitch",
     permanent: true,
   },
