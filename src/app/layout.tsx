@@ -16,6 +16,10 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Fun117's Links",
   description: "Fun117に関連するリンク短縮サイト",
+  icons: {
+    icon: "/wp-content/toakiryu/icon_256x256.ico",
+    apple: "/wp-content/toakiryu/icon_256x256.png",
+  },
 };
 
 export default function RootLayout({
