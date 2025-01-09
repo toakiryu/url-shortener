@@ -38,7 +38,7 @@ export const links = [
   },
   {
     path: "/youtube",
-    href: "https://www.youtube.com/channel/UCT34DhsVlYoyV8Y4c-MTTrQ",
+    href: "https://www.youtube.com/@toakiryu",
     label: "YouTube",
     permanent: true,
   },
@@ -50,7 +50,7 @@ export const links = [
   },
   {
     path: "/spotify",
-    href: "https://open.spotify.com/user/31d3l7cul3sq3yplut7asa",
+    href: "https://open.spotify.com/user/31d3l7cul3sq3i2snz3yplut7asa",
     label: "Spotify",
     permanent: true,
   },
@@ -80,7 +80,7 @@ export const links = [
   },
   {
     path: "/duolingo",
-    href: "https://www.duolingo.com/profile/Fun_117",
+    href: "https://www.duolingo.com/profile/toakiryu",
     label: "Duolingo",
     permanent: true,
   },
